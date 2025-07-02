@@ -13,9 +13,9 @@
 Cloud SQL supports **three major relational database engines**:
 | Engine       | Key Strengths & Use Cases                                                                                  |
 |--------------|-----------------------------------------------------------------------------------------------------------|
-| **MySQL**    | Widely used for web apps, CMS (e.g., WordPress), and e-commerce. Known for reliability and ease of use[5][6][3]. |
-| **PostgreSQL**| Advanced SQL features, support for JSON/non-relational data, geospatial queries, and extensibility. Ideal for analytics, financial apps, and complex data types[8][5][3]. |
-| **SQL Server**| Enterprise-grade features, familiar to Microsoft-centric organizations. Good for migrating existing SQL Server workloads to the cloud with minimal changes[5][3]. |
+| **MySQL**    | Widely used for web apps, CMS (e.g., WordPress), and e-commerce. Known for reliability and ease of use. |
+| **PostgreSQL**| Advanced SQL features, support for JSON/non-relational data, geospatial queries, and extensibility. Ideal for analytics, financial apps, and complex data types. |
+| **SQL Server**| Enterprise-grade features, familiar to Microsoft-centric organizations. Good for migrating existing SQL Server workloads to the cloud with minimal changes. |
 
 **Example:**  
 A fintech startup can use Cloud SQL for PostgreSQL to handle complex transactions and geospatial queries, while an e-commerce site might choose MySQL for its simplicity and performance.
