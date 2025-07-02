@@ -1,4 +1,4 @@
-### **Overview of Cloud SQL as a Managed Relational Database Service**
+#### **Overview of Cloud SQL as a Managed Relational Database Service**
 
 **Google Cloud SQL** is a **fully managed relational database service** that supports the deployment, management, and scaling of relational databases in the cloud. It eliminates the operational overhead of traditional database administration—such as provisioning, patching, backups, and failover—allowing users to focus on application development and data management rather than infrastructure tasks.
 
