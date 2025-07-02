@@ -3,7 +3,7 @@
 **Google Cloud SQL** is a **fully managed relational database service** that supports the deployment, management, and scaling of relational databases in the cloud. It eliminates the operational overhead of traditional database administration—such as provisioning, patching, backups, and failover—allowing users to focus on application development and data management rather than infrastructure tasks.
 
 **Typical Use Cases:**
-- **Web and mobile applications:** Store user data, product catalogs, or transactional records for e-commerce, SaaS, or content management systems[4][5].
+- **Web and mobile applications:** Store user data, product catalogs, or transactional records for e-commerce, SaaS, or content management systems.
 - **Analytics and reporting:** Integrate with BigQuery or Data Studio for real-time business intelligence.
 - **Microservices architectures:** Each service can have its own independently scalable database, often used with Kubernetes Engine.
 - **Enterprise migrations:** Move existing on-premises SQL databases to the cloud for improved reliability and reduced maintenance.
